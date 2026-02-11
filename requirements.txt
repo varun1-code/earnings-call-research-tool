@@ -1,0 +1,9 @@
+streamlit
+openai
+pymupdf
+python-docx
+pytesseract
+pdf2image
+pillow
+reportlab
+
