@@ -1,3 +1,12 @@
+---
+title: Earnings Call Research Tool
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: main.py
+pinned: false
+---
 # Earnings Call Research Tool 
 
 This project implements a structured research tool for analyzing earnings call transcripts and management discussion sections.  
