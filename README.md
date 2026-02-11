@@ -1,4 +1,4 @@
-# Earnings Call Research Tool (Option B)
+# Earnings Call Research Tool 
 
 This project implements a structured research tool for analyzing earnings call transcripts and management discussion sections.  
 The system is designed as a fixed research tool (not a chatbot) and produces analyst-ready structured outputs.
@@ -20,7 +20,7 @@ Scanned PDFs are supported using OCR.
 
 ---
 
-## Research Tool Implemented (Option B)
+## Research Tool Implemented 
 
 ### Earnings Call / Management Commentary Summary
 
