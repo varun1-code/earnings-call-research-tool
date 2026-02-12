@@ -34,7 +34,7 @@ def extract_from_pdf(file_path: str) -> str:
 
 
 def extract_from_pdf_ocr(file_path: str) -> str:
-    images = convert_from_path(file_path, dpi=300)
+    images = convert_from_path(file_path, dpi=200)
 
     all_text = []
     for img in images:
