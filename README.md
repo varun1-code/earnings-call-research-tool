@@ -4,7 +4,7 @@ emoji: 📈
 colorFrom: blue
 colorTo: green
 sdk: streamlit
-app_file:app.py
+app_file: app.py
 pinned: false
 ---
 # Earnings Call Research Tool 
